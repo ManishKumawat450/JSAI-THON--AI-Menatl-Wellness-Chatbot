@@ -1,18 +1,18 @@
 Mental Wellness AI Assistant 🧠💬
 A supportive AI chatbot designed to promote mental wellness by providing empathetic conversations, stress management tips, and helpful resources. Perfect for individuals seeking guidance, stress relief, or emotional support.
 
-Features
+🚀 Features
 ✅ Empathetic Conversations — Listens to users with compassion and provides supportive responses
 ✅ Stress & Wellness Guidance — Shares relaxation tips, mood boosters, and mental health suggestions
 ✅ Memory Aware — Maintains conversation context for smooth, coherent interaction
 ✅ Resource Integration (RAG) — Fetches reliable information from curated mental health documents (PDF-based)
 ✅ Calming, Responsive UI — Visually soothing and accessible web interface tailored for mental wellness
 
-Important Notice ⚠️
+⚠️ Important Notice
 This AI Assistant is NOT a replacement for professional mental health care or emergency intervention.
 If you or someone you know is experiencing a crisis, contact emergency services or a certified mental health provider immediately.
 
-Setup Instructions
+🛠 Setup Instructions
 Backend Setup
 Navigate to the API directory:
 
@@ -59,24 +59,14 @@ sql
 Copy
 Edit
 npm start
-Usage
-Make sure both the API server and frontend server are running.
+📚 Mental Health & Crisis Resources
+National Suicide Prevention Lifeline (US): 988
 
-Open your browser and navigate to:
+Crisis Text Line (US): Text HOME to 741741
 
-arduino
-Copy
-Edit
-http://localhost:3000
-Interact with the AI Assistant via the chat interface.
+International Suicide Prevention Resources
 
-Example Prompts to Test
-💬 “What are some quick stress-relief techniques?”
-💬 “Share 3 mental wellness tips for daily life.”
-💬 “I'm feeling low, what can I do to uplift my mood?”
-💬 “How can I manage anxiety before an exam?”
-
-Responsible Use Guidelines
+✅ Responsible Use Guidelines
 ✔️ This chatbot complements, but does not replace, mental health professionals
 ✔️ Always inform users they are interacting with an AI Assistant
 ✔️ Ensure clear access to human help for critical situations
