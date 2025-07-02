@@ -20,7 +20,6 @@ Prerequisites
 ✔️ Azure Account with OpenAI Service Enabled
 
 Environment Setup
-
 Create a .env file in the project root with:
 
 ini
@@ -68,3 +67,4 @@ International Suicide Prevention Resources: https://www.iasp.info/resources/Cris
 ✔️ Ensure clear access to human help for critical situations
 ✔️ Regularly update health resources for accuracy
 
+👨‍💻 Developed with ❤️ for mental wellness
