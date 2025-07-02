@@ -1,7 +1,6 @@
 Mental Wellness AI Assistant 🧠💬
 A supportive AI chatbot designed to promote mental wellness by providing empathetic conversations, safety tips, and helpful resources. Perfect for individuals seeking guidance, stress relief, or emotional support.
 
-
 🚀 Features
 ✅ Empathetic Conversations — Listens to users with compassion and provides supportive responses
 ✅ Safety & Wellness Guidance — Shares relaxation tips, mood boosters, and mental health suggestions
@@ -9,7 +8,6 @@ A supportive AI chatbot designed to promote mental wellness by providing empathe
 ✅ Resource Integration (RAG) — Fetches reliable information from curated mental health documents (PDF-based)
 ✅ Crisis Detection (Optional) — Identifies potential crisis indicators and provides appropriate resources
 ✅ Calming, Responsive UI — A visually soothing, accessible web interface tailored for mental wellness
-
 
 ⚠️ Important Notice
 This AI Assistant is NOT a substitute for professional mental health care or emergency intervention. If you or someone you know is facing a crisis, contact emergency services or a certified mental health provider immediately.
