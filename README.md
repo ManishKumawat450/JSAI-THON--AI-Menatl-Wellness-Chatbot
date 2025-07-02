@@ -10,23 +10,26 @@ A supportive AI chatbot designed to promote mental wellness by providing empathe
 ✅ Calming, Responsive UI — A visually soothing, accessible web interface tailored for mental wellness
 
 ⚠️ Important Notice
-This AI Assistant is NOT a substitute for professional mental health care or emergency intervention. If you or someone you know is facing a crisis, contact emergency services or a certified mental health provider immediately.
+This AI Assistant is NOT a substitute for professional mental health care or emergency intervention.
+If you or someone you know is facing a crisis, contact emergency services or a certified mental health provider immediately.
 
 🛠 Setup Instructions
 Prerequisites
+
 ✔️ Node.js (v14 or newer)
 ✔️ Azure Account with OpenAI Service Enabled
 
 Environment Setup
-1️⃣ Create a .env file in the project root with:
 
-bash
+Create a .env file in the project root with:
+
+ini
 Copy
 Edit
 AZURE_INFERENCE_SDK_KEY=your_azure_openai_key  
 INSTANCE_NAME=your_azure_openai_instance_name  
 DEPLOYMENT_NAME=your_deployment_name  
-2️⃣ Add your mental health PDFs to:
+Add your mental health PDF resources to:
 
 bash
 Copy
@@ -35,13 +38,13 @@ Edit
 📦 Installation
 Install dependencies:
 
-bash
+nginx
 Copy
 Edit
 npm install  
 Start the backend server:
 
-bash
+sql
 Copy
 Edit
 npm start  
@@ -57,14 +60,11 @@ National Suicide Prevention Lifeline (US): 988
 
 Crisis Text Line (US): Text HOME to 741741
 
-International Suicide Prevention Resources: iasp.info
+International Suicide Prevention Resources: https://www.iasp.info/resources/Crisis_Centres/
 
 ✅ Responsible Use Guidelines
-This chatbot complements, but does not replace, mental health professionals
-
-Always inform users they are interacting with AI
-
-Ensure clear access to human help for critical situations
-
-Regularly update health resources for accuracy
+✔️ This chatbot complements, but does not replace, mental health professionals
+✔️ Always inform users they are interacting with AI
+✔️ Ensure clear access to human help for critical situations
+✔️ Regularly update health resources for accuracy
 
