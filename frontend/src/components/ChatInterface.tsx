@@ -7,7 +7,6 @@ import {
   Paper, 
   List,
   IconButton,
-  InputAdornment,
   useTheme,
   PaletteMode,
   Fade,
@@ -276,19 +275,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ colorMode, mode }) => {
             }}
             className={mode === 'dark' ? 'dark glass-effect' : 'glass-effect'}
           >
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              style={{ marginRight: '8px' }}
-            >
-              <IconButton 
-                color="primary"
-                aria-label="attach file"
-                sx={{ opacity: 0.7 }}
-              >
-                <AttachFileIcon />
-              </IconButton>
-            </motion.div>
+            
             
             <TextField
               fullWidth
@@ -306,18 +293,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ colorMode, mode }) => {
               multiline
               maxRows={4}
               InputProps={{
-                endAdornment: (
-                  <InputAdornment position="end">
-                    <IconButton
-                      color="primary"
-                      aria-label="emoji"
-                      edge="end"
-                      sx={{ opacity: 0.7 }}
-                    >
-                      <SentimentSatisfiedAltIcon />
-                    </IconButton>
-                  </InputAdornment>
-                ),
+        
                 sx: {
                   borderRadius: 2,
                   backgroundColor: mode === 'dark' ? 'rgba(30, 30, 35, 0.7)' : 'rgba(255, 255, 255, 0.7)',
@@ -357,13 +333,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ colorMode, mode }) => {
               )}
               
               <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <IconButton
-                  color="primary"
-                  aria-label="voice input"
-                  disabled={isLoading}
-                >
-                  <MicIcon />
-                </IconButton>
+                
               </motion.div>
 
               <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
