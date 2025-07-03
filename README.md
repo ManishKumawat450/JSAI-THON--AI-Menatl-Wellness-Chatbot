@@ -14,6 +14,12 @@ I customized the **Get Started with Chat** azd template to build an empathetic *
 ✅ Mental health suggestions and well-being tips   
 ✅ Context-aware responses to maintain natural, supportive dialogue  
 ✅ A calming, visually soothing, and accessible user interface  
+### Customizations Include:
+
+- Redesigned frontend with gradient themes and animations tailored to wellness  
+- Reworked chatbot responses with supportive, positive dialogue  
+- Integrated sections for stress management tips and motivational prompts  
+- Simplified UI by removing irrelevant features for focus and accessibility  
 
 ## 🚀 Features
 
