@@ -3,6 +3,17 @@
 A supportive AI chatbot designed to promote mental wellness by providing empathetic conversations, stress management tips, and helpful resources. Perfect for individuals seeking guidance, stress relief, or emotional support.
 
 ---
+## 🌍 Problem Statement
+Stress, anxiety, and emotional challenges are increasing globally, yet many people avoid seeking help due to stigma, lack of access, or awareness. The need for a private, accessible, and supportive companion is more critical than ever—one that can provide emotional relief, mental wellness guidance, and a safe space to talk.
+
+
+## 🛠️ My Solution
+I customized the **Get Started with Chat** azd template to build an empathetic **Mental Wellness AI Assistant**. The project focuses on mental health support, stress relief, and motivational interactions through:
+
+✅ AI-powered empathetic conversations for stress relief  
+✅ Mental health suggestions and well-being tips   
+✅ Context-aware responses to maintain natural, supportive dialogue  
+✅ A calming, visually soothing, and accessible user interface  
 
 ## 🚀 Features
 
