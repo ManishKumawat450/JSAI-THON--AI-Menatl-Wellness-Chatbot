@@ -9,7 +9,6 @@ A supportive AI chatbot designed to promote mental wellness by providing empathe
 ✅ Empathetic Conversations — Listens to users with compassion and provides supportive responses
 ✅ Stress & Wellness Guidance — Shares relaxation tips, mood boosters, and mental health suggestions
 ✅ Memory Aware — Maintains conversation context for smooth, coherent interaction
-✅ Resource Integration (RAG) — Fetches reliable information from curated mental health documents (PDF-based)
 ✅ Calming, Responsive UI — Visually soothing and accessible web interface tailored for mental wellness
 
 ---
