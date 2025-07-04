@@ -37,6 +37,15 @@ If you or someone you know is experiencing a crisis, contact emergency services 
 
 ---
 
+## Demo video
+
+
+https://github.com/user-attachments/assets/0d3ca7bf-799c-4245-a8a6-bf18bec7dc54
+
+
+
+
+
 ## 🛠️ Setup Instructions
 
 ### Backend Setup
